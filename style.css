@@ -1,0 +1,27 @@
+.myheading{
+    color: darkgrey;font-size: 40px;background-color: coral;
+}
+#three{
+    color: fuchsia;
+}
+.first{
+    background-color: aquamarine;padding-top: 30px;padding-left: 50px;padding-bottom: 30px;margin-left: 30px;
+
+}
+.test{
+    display: flex;background-color: darkslategray;padding: 20px;
+    .p1{
+        margin-left: 40px;
+    }
+    .main{
+        display: flex
+    }
+    .paragraph2{
+        background-color: darkgreen
+    }
+.paragraph3{
+    background-color: aqua
+}
+.paragraph4{
+background-color: darksalmon
+}
